@@ -21,9 +21,9 @@ if defined?(Merb::Plugins)
   module FeatherSlice
     
     # Slice metadata
-    self.description = "FeatherSlice is a chunky Merb slice!"
+    self.description = "feather-slice is a slice of the merb blog feather"
     self.version = "0.0.1"
-    self.author = "YOUR NAME"
+    self.author = "Michael Murray"
     
     # Stub classes loaded hook - runs before LoadClasses BootLoader
     # right after a slice's classes have been loaded internally.

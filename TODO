@@ -1,8 +1,5 @@
 TODO:
 
-- Fix FeatherSlice.description and FeatherSlice.version
-- Fix LICENSE with your name
-- Fix Rakefile with your name and contact info
 - Add your code to lib/feather-slice.rb
 - Add your Merb rake tasks to lib/feather-slice/merbtasks.rb
 

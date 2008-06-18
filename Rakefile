@@ -6,14 +6,14 @@ require 'merb-core/test/tasks/spectasks'
 require 'merb-core/tasks/merb_rake_helper'
 
 NAME = "feather-slice"
-AUTHOR = "Your Name"
-EMAIL = "Your Email"
-HOMEPAGE = "http://merbivore.com/"
-SUMMARY = "Merb Slice that provides ..."
+AUTHOR = "Michael Murray"
+EMAIL = "sudothinker@gmail.com"
+HOMEPAGE = "http://featherblog.org/"
+SUMMARY = "Merb Slice that provides feather blog in slice form"
 GEM_VERSION = "0.9.4"
 
 spec = Gem::Specification.new do |s|
-  s.rubyforge_project = 'merb'
+  s.rubyforge_project = 'feather-slice'
   s.name = NAME
   s.version = GEM_VERSION
   s.platform = Gem::Platform::RUBY
